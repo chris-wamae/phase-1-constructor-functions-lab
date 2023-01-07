@@ -14,3 +14,4 @@ function PickupLocation(address,city){
     this.address = address;
     this.city = city;
 }
+//Completed Assignment
